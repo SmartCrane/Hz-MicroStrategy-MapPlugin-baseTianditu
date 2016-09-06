@@ -1,20 +1,20 @@
 [{
-"TiledMap":"http://10.246.132.249:8080/OneMapServer/rest/services/base-map-image-globe/MapServer",
-"QueryTask":"http://10.174.130.143:6080/arcgis/rest/services/ZNGX_ZS_XSHZ_GXBT/MapServer/53",
-"DynamicServer":"http://10.174.130.143:6080/arcgis/rest/services/ZNGX_ZS_XSHZ_GXBT/MapServer/",
+"TiledMap":"",
+"QueryTask":"",
+"DynamicServer":"",
 "TaskField":"EVENTID",
 "MetricName":"LineId",
 "ConditionN":"50",
 "ConditionM":"1000",
 
 "userid" : "ASM_000154553f64790f",
-"tokenurl":"http://10.246.132.249:8080/RemoteTokenServer",
-"username":"sipms",
-"password":"sinopecipms",
+"tokenurl":"",
+"username":"",
+"password":"",
 "localserverip":"127.0.0.1",
-"basemapUrl":"http://10.246.132.249:8080/OneMapServer/rest/services/base-tdt-image-globe/WMTS",
-"PipeLineInfo":"http://10.174.130.142/IPMSAPI/PDS/UAS/GetPipeLineInfo",
-"mapServer":"http://10.174.130.143:6080/arcgis/rest/services/ZNGX_ZS_XSHZ_GXBT/MapServer",
-"annolayerUrl":"http://10.246.132.249:8080/OneMapServer/rest/services/base-tdt-label-image/WMTS" 
+"basemapUrl":"",
+"PipeLineInfo":"",
+"mapServer":"",
+"annolayerUrl":"" 
 }]
 
